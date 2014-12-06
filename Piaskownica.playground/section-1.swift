@@ -3,4 +3,4 @@ Tytuł: Git dla głupków
 Autor: Super Anja
 
 Artefakt:
-Takoe fajne rzeczy robię
+Takie fajne rzeczy robię! Będę programistom!
