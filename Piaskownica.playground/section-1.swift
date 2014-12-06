@@ -1,5 +1,6 @@
 Publikacja nr 1
-Tytuł
-Autor
+Tytuł: Git dla głupków
+Autor: Super Anja
 
-Artefakt
+Artefakt:
+Takoe fajne rzeczy robię
