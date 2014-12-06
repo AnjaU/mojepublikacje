@@ -4,3 +4,5 @@ Autor: Super Anja
 
 Artefakt:
 Takie fajne rzeczy robię! Będę programistom!
+
+rozne dziene bledy sie pojawiaja w miejscach
